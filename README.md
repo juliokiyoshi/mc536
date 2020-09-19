@@ -1,1 +1,2 @@
-# Repositório Para os Labs de mc536 (Banco de dados)
+#MC536 - TURMA A
+NOME: Julio Kiyoshi Rodrigues Matsoui

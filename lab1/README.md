@@ -6,3 +6,4 @@ https://colab.research.google.com/gist/juliokiyoshi/e7c1d3f61f69ea845b217517f100
 
 ### Tarefa 2 sobre Engenharia Reversa
 
+![](images/tarefa2_dataset1104.png)
